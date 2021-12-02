@@ -1,0 +1,162 @@
+body {
+    text-align: center;
+    background-color: #259952;
+    background-image: linear-gradient(135deg, #259952, #00cf4f) ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Sobre {
+    color: white;
+    background: #259952;
+    padding: 4px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.navbarhome {
+    top: 0;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.904);
+    color: #259952  ;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-size: 37px;
+    position: sticky;
+    border-radius: 7px;
+    padding-left: 15px;
+}
+
+.navbarhome nav {
+    display: flex;
+    justify-content: initial;
+    align-items: center;
+}
+
+.contact {
+    background: rgb(209, 89, 89);
+    background-image: linear-gradient(135dig, rgb(209, 89, 89), rgb(196, 62, 62) );
+    padding: 4px;
+    border: none;
+    border-radius: 10px;
+}
+
+.email {
+    text-decoration: none;
+    color: rgb(235, 235, 235);
+    padding: 5px;
+    font-size: 18px;
+}
+
+.contatos button a:hover {
+    color: #84ffb3;
+}
+
+.telegram {
+    color: white;
+    background: #0088cc;
+    padding: 4px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.instagram {
+    color: white;
+    background:#E1306C;
+    padding: 4px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.weltext {
+    padding-top: 50px;
+     border-bottom: solid white 5px;
+     background-color: rgba#259952;
+     padding: 1px;
+     font-size: 88px;
+     background: rgba#259952;
+     margin: 10%;
+     border-radius: 3px;
+}
+
+.github {
+    text-decoration: none;
+    color: white;
+}
+
+.parag1 {
+    font-size: 27px;
+    margin: 10%;
+}
+
+.cr {
+    color: #259952;
+    font-size: 17px;
+    padding-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contatos {
+    text-align: left;
+    background: rgba#259952;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 90px;
+    color: #00cf4f;
+    padding-top: 10px;
+}
+
+.bottompage {
+    background: rgba(255, 255, 255, 0.904);
+    bottom: 0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding-bottom: 10px;
+    margin-bottom: -7px;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+
+.skills {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.skills1 a {
+    text-decoration: none;
+    color: white;
+}
+
+.Inicio {
+    color: white;
+    background: #259952;
+    padding: 4px;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.sujeito {
+    border-radius: 10px;
+}
+
+.logoexemple {
+    text-decoration: none;
+    color: white;
+}
+
+.infosuject {
+    font-size: 40px;
+    color: white;
+}
