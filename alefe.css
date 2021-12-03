@@ -183,3 +183,13 @@ nav .homebutton {
     background: #259952; 
     border-radius: 10px;
   }
+
+  ::-moz-selection {
+    color: white;
+    background: #17d35f;
+  }
+  
+  ::selection {
+    color: white;
+    background: #17d35f;
+  }
