@@ -193,3 +193,12 @@ nav .homebutton {
     color: white;
     background: #17d35f;
   }
+
+  .projects a {
+      text-decoration: none;
+      color: white;
+      font-size: 28px;
+      background-color: #17d35f;
+      padding: 10px;
+      border-radius: 10px;
+  }
