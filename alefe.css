@@ -202,3 +202,17 @@ nav .homebutton {
       padding: 10px;
       border-radius: 10px;
   }
+  .projects a:hover {
+    color: rgb(220, 255, 223);
+    font-size: 28px;
+    background-color: #15c95a;
+    padding: 5px;
+    border-radius: 10px;
+    transition-duration: 0.2s;
+    border: solid white;
+  }
+  
+  nav .logoanim:hover {
+    transform: rotate(360deg);
+    transition-duration: 0.7s;
+  }
