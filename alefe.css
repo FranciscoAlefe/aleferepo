@@ -199,8 +199,8 @@ nav .homebutton {
       color: white;
       font-size: 28px;
       background-color: #17d35f;
-      padding: 10px;
-      border-radius: 10px;
+      padding: 3px;
+      border-radius: 7px;
   }
   .projects a:hover {
     color: rgb(220, 255, 223);
