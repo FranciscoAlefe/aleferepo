@@ -28,6 +28,7 @@ body {
     position: sticky;
     border-radius: 7px;
     padding-left: 15px;
+    cursor: default;
 }
 
 .navbarhome nav {
