@@ -168,16 +168,17 @@ nav .homebutton {
 }
 
 ::-webkit-scrollbar {
-    width: 10px;
+    width: 12px;
   }
 
   ::-webkit-scrollbar-track {
-    background: #84ffb3; 
+    background: #2fd66f; 
   }
 
   ::-webkit-scrollbar-thumb {
-    background: #00cf4f; 
+    background: #00af43; 
     border-radius: 10px;
+    border: solid #4be787 2px;
   }
 
   ::-webkit-scrollbar-thumb:hover {
