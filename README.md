@@ -1,2 +1,2 @@
 # aleferepo
-Testing my knowledge of HTML and CSS.
+Repository for storing project links from sites like GitHub and others.
